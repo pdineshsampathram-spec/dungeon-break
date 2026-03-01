@@ -87,13 +87,6 @@ Navigate dangerous dungeons, manage your sanity, rescue survivors, and uncover y
 
 ---
 
-## 🚀 Run Locally
-
-```bash
-git clone https://github.com/pdineshsampathram-spec/dungeon-break.git
-cd dungeon-break
-
----
 ## 📱 Mobile Support
 
 
@@ -102,3 +95,12 @@ cd dungeon-break
 > Mobile devices are not supported yet because touch controls have not been implemented.
 
 Mobile support is planned for a future update.
+
+---
+
+## 🚀 Run Locally
+
+```bash
+git clone https://github.com/pdineshsampathram-spec/dungeon-break.git
+cd dungeon-break
+
