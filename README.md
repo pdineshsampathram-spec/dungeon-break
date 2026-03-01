@@ -37,7 +37,6 @@ Navigate dangerous dungeons, manage your sanity, rescue survivors, and uncover y
 <p align="center">
   <img src="./assets/menu.png" width="32%" />
   <img src="./assets/gameplay.png" width="32%" />
-  <img src="./assets/result.png" width="32%" />
   <img src="./assets/ending.png" width="32%" />
 </p>
 
