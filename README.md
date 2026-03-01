@@ -31,6 +31,7 @@ Navigate dangerous dungeons, manage your sanity, rescue survivors, and uncover y
 ---
 
 
+
 ## 📸 Screenshots
 
 <p align="center">
@@ -91,3 +92,13 @@ Navigate dangerous dungeons, manage your sanity, rescue survivors, and uncover y
 ```bash
 git clone https://github.com/pdineshsampathram-spec/dungeon-break.git
 cd dungeon-break
+
+---
+## 📱 Mobile Support
+
+
+> ⚠️ **Desktop Only (for now)**  
+> Dungeon Break is currently optimized for **laptop/desktop browsers**.  
+> Mobile devices are not supported yet because touch controls have not been implemented.
+
+Mobile support is planned for a future update.
